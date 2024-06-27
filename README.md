@@ -14,8 +14,11 @@
 
 ### Langages et Outils : 
 
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" style="width:80px; height:80px; object-fit: cover; "> <img src="https://cdn3.iconfinder.com/data/icons/file-extension-11/512/sql-file-extension-format-digital-256.png" style="width:80px; height:80px; object-fit: cover; "> <img src="https://cdn3.iconfinder.com/data/icons/business-intelligence-color/64/reporting-tools-business-graph-software-analyze-data-256.png" style="width:80px; height:80px; object-fit: cover; ">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" alt="Python" style="width:80px; height:80px; object-fit: cover; "> <img src="https://cdn3.iconfinder.com/data/icons/file-extension-11/512/sql-file-extension-format-digital-256.png" alt="MySQL" style="width:80px; height:80px; object-fit: cover; "> <img src="https://cdn3.iconfinder.com/data/icons/business-intelligence-color/64/reporting-tools-business-graph-software-analyze-data-256.png" alt="PowerBI" style="width:80px; height:80px; object-fit: cover; ">
 
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-alish&layout=compact)
 
 <!---
 El-alish/El-alish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
