@@ -15,7 +15,7 @@
 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" alt="Python" style="width:80px; height:80px; object-fit: cover; "> <img src="https://cdn3.iconfinder.com/data/icons/file-extension-11/512/sql-file-extension-format-digital-256.png" alt="MySQL" style="width:80px; height:80px; object-fit: cover; "> <img src="https://cdn3.iconfinder.com/data/icons/business-intelligence-color/64/reporting-tools-business-graph-software-analyze-data-256.png" alt="PowerBI" style="width:80px; height:80px; object-fit: cover; ">  <img src="https://huyza.gallerycdn.vsassets.io/extensions/huyza/dax-language/0.0.2/1628621363691/Microsoft.VisualStudio.Services.Icons.Default" alt="Dax" style="width:80px; height:80px; object-fit: cover; ">
 <br>
-    Python         SQL            PowerBI           DAX
+    Python           SQL               PowerBI               DAX
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-alish&layout=compact)
