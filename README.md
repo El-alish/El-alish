@@ -1,6 +1,6 @@
 ## 👋 Bonjour ! Je suis Alain RECUZE :nerd_face: , Data Analyst Jr
 <br>
-## Bienvenue sur mon GitHub ! Venez découvrir mes projets , n'hésitez pas à vous balader, si vous avez des questions contacter moi par mail ou Linkedin !
+## Bienvenue sur mon GitHub ! Venez découvrir mes projets , n'hésitez pas à vous balader, si vous avez des questions contactez moi par mail ou Linkedin !
 
 ### En recherche de poste, secteur Nantais
 
