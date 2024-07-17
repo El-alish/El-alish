@@ -2,7 +2,7 @@
 <br>
 ## Bienvenue sur mon GitHub ! Venez découvrir mes projets , n'hésitez pas à vous balader, si vous avez des questions contactez moi par mail ou Linkedin !
 
-### En recherche de poste, secteur Nantais
+### Chargé de projet
 
 <br>
 👀 Me contacter :
@@ -11,8 +11,6 @@
 <a href="mailto:alain.recuze@gmail.com" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Google-256.png" style="width:50px; height:50px; object-fit: cover;" ></a>     <a href="https://www.linkedin.com/in/arecuze/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-256.png" style="width:80px; height:80px; object-fit: cover;" >
   </a>
   
-
-👩‍💻 Actuellement en recherche de poste en tant que Data Analyst, sur la Vendée (Les sables d'Olonnes, La Roche sur Yon, Nantes)
 
 ### Langages et Outils : 
 
